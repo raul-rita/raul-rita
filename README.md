@@ -1,15 +1,4 @@
-# Hello World!
-
-<p>Eu sou o Raul, de Araraquara interior de São Paulo.</p>
-<p>Um Arquiteto e Urbanista por formação e um Desenvolvedor por paixão e escolha.</p>
-<p>Estudante de Análise e Desenvolvimento de Sistemas.</p>
-<p>Participei da Trilha Full Stack do Programa Desenvolve do 'o Boticário' em parceria com a 'Alura'. Programa realizado com os cursos assincronos e sessões de mentorias semanais para desenvolvimento de soft skills.</p>
-
-## 📊 Github Stats:
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=raul-rita&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rita&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
+# Oi, eu sou o Raul!
 
 ## 💻 Tecnologias:
 
